@@ -1,0 +1,7 @@
+{
+  "name": "Sonar Tori - Authentic Bengali Sarees",
+  "description": "Premium handloom sarees from the heart of West Bengal, curated for the modern wardrobe in Pune.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
